@@ -16,7 +16,7 @@ body {
 }
 
 .top {
-  background-color: #000;
+  background-color: #b6b5b5;
   text-align: center;
   height: 120px;
   display: flex;
@@ -30,10 +30,11 @@ body {
   margin: auto;
   width: 500px;
   height: 500px;
-  background-color: white; 
+  background-color: white;
   display: flex;
   align-items: center;
   background-position: center;
+  justify-content: center;
 }
 
 button {
@@ -41,14 +42,14 @@ button {
   font-family: Arial;
   color: #ffffff;
   font-size: 20px;
-  background: #1014e1;
+  background-color: #0000ff;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   margin: 5px;
 }
 
 .vermelho {
-  background: #ed0c0c;
+  background: #ff0000;
 }
 
 .verde {
